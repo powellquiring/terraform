@@ -189,7 +189,7 @@ Review the output parameters that you can access after you retrieved your data s
 | Output parameter | Data type | Description |
 | ------------- |-------------| -------------- |
 |`dns_zones`|List of zones|A List of zones that you added to your private DNS service instance.| 
-|`dns_zones.zones_id`|String|The ID of the zone.|
+|`dns_zones.zone_id`|String|The ID of the zone.|
 |`dns_zones.instance_id`|String|The ID of the private DNS service instance where you added the zone.|
 |`dns_zones.description`|String|The description of the zone.|
 |`dns_zones.name`|String|The name of the zone.|
